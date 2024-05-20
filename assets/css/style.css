@@ -1,0 +1,36 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css");
+header {
+  padding: 4rem; }
+  header h1 {
+    text-align: center; }
+
+main {
+  display: flex;
+  flex-direction: row; }
+
+.itens {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  margin: 0 auto; }
+  .itens .card {
+    margin: 1%;
+    max-width: 29.33%; }
+  .itens .selected {
+    border: 2px solid #191970; }
+
+.summary {
+  max-width: 30%;
+  height: 30%;
+  margin: 0 auto; }
+  .summary h3 {
+    text-align: center;
+    padding: 5%; }
+
+.quantity-area button {
+  background-color: #000;
+  color: #ffffff; }
+.quantity-area .quantity {
+  padding: 1rem; }
+
+/*# sourceMappingURL=style.css.map */
