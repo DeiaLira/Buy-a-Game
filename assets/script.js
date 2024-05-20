@@ -1,6 +1,6 @@
 var games = [
     {
-        "photo": "assets/img/A_plague_tale_innocence.jpg",
+        "photo": "assets/img/A-plague-tale-innocence.jpg",
         "name": "A plague Tail",
         "price": 199.90,
         "active": false,
